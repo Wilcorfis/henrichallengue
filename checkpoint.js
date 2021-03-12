@@ -252,4 +252,4 @@ module.exports = {
   crearClaseEmprendedor,
   repetirCaracteres
 }
-//
+///
